@@ -1,2 +1,2 @@
 # third
-thirdone
+thirdoneadded licnse and .ignore file as none.
